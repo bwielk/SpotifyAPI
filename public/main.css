@@ -1,0 +1,31 @@
+body{
+  background-color: grey;
+}
+
+main{
+  width: 300px;
+  margin: 0 auto;
+}
+
+input{
+  padding: 10px;
+  border-radius: 5px;
+  width: 400px;
+  font-size: 22px;
+  margin: 10px;
+}
+
+.album{
+  padding: 5px;
+}
+
+.album p{
+  text-decoration: none;
+  font-family: arial;
+  font-weight: bold;
+  color: #00B300;
+}
+
+#search-query{
+  visibility:hidden;
+}
